@@ -7,7 +7,7 @@ Wintertransfers werden in Fussballkreisen kritischer beäugt als Sommertransfers
 ## These
 Fussballclubs, die im Winter stark an Wert zulegen (also entweder viele Transfers tätigten oder einen ganz wertvollen Spieler verpflichten), können dies sportlich in der Rückrunde nicht in Punkte ummünzen.
 
-## Hinweis zu zweitem Projekt zu Zuschauerzahlen (Zuschauerzahlen.ipynb)
+## Hinweis zum zweiten Projekt zu Zuschauerzahlen (Zuschauerzahlen.ipynb)
 Zunächst hatte ich ein anderes Projekt als Diplomarbeit geplant. Anhand von Wetterdaten und Zuschauerzahlen will ich aufzeigen, wie stark sich das Wetter (und andere Faktoren wie Erfolg, Spielbeginn, Spieltag, TV-Spiel, etc.) sich auf die Zuschauerzahlen auswirkt. Die Wetterdaten habe ich von Meteo Swiss erhalten. Sehr viel Merge-Arbeit und Daten-Cleaning hat mir das Leben aber schwer gemacht. Noch immer ist es mein Ziel, das Projekt zu beenden - für die Diplomarbeit hat es aber nicht gereicht. Da ich ohnehin zuvor schon das Wintertransfer-Projekt angegangen bin (dieses eilte, weil das Transferfenster Mitte Februar schloss), reiche ich dieses ein. Die Spieldaten, die ich fürs vorliegende Projekt brauche, stammen aber vom Zuschauer-Projekt. Deshalb habe ich jenes auch angehängt.
 
 ## Vorgehen
