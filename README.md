@@ -1,7 +1,7 @@
 ## Ineffiziente-Wintertransfers
 Auswirkungen von Wintertransfers auf die Leistungen der Super-League-Teams seit 2005¶
 
-#Ausgangslage
+Ausgangslage
 Wintertransfers werden in Fussballkreisen kritischer beäugt als Sommertransfers. Da Verträge normalerweise von Saison zu Saison (also von Sommer zu Sommer) laufen, entspringen Wechsel im Winter oft kurzfristigeren Entscheiden oder gar Notsituationen (sportlich schlingernde Clubs, unzufriedene Spieler,...)
 
 #These
