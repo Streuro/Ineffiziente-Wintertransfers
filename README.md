@@ -20,11 +20,11 @@ Insgesamt wären es also 130 Fälle von Team-Wintertransfers, die ich untersuche
 
 ## Abschätzen von Aufwand/Ertrag
 
-Der Aufwand für das Scrapen ist überschaubar, da die Daten auf Transfermarkt.com schon gut strukturiert sind. Die Daten für die Spiele/Punkte der Teams sind zudem bereits von einem anderen Projekt (Zuschauerzahlen.ipynb, ebenfalls im Repository) vorhanden. Aufwändig dürfte aber das Zusammenführen und Vergleichen der beiden Datensätze sein 
+Der Aufwand für das Scrapen ist überschaubar, da die Daten auf Transfermarkt.com schon gut strukturiert sind. Die Daten für die Spiele/Punkte der Teams sind zudem bereits von einem anderen Projekt (Zuschauerzahlen.ipynb, ebenfalls im Repository) vorhanden. Aufwändig dürfte aber das Zusammenführen und Vergleichen der beiden Datensätze sein. Der Aufwand dürfte sich aber auch deshalb lohnen, weil die Datensätze (und die Scraping-Technik) für ähnliche Projekte wieder zur Anwendung kommen können.
 
 ## Knackpunkt
 Das Zusammenführen von Spiel-/Punktedaten mit den Transferdaten war letzlich tatsächlich ein sehr aufwändiger Schritt - und gewissermassen eine Hauptschwierigkeit. Ein anderer Knackpunkt war die grafische Aufbereitung auf wenig Platz, zusammen mit dem Infografikteam.
 
 ## Briefingpersonen
-Der Spielerberater Michele Cedrola sowie der FCSG-Sportchef Alain Sutter haben mit ihren Aussagen die These zu den Wintertransfers gestützt: Wechsel im Winter sind selten von Erfolg gekrönt.
+Der Spielerberater Michele Cedrola sowie der FCSG-Sportchef Alain Sutter haben mit ihren Aussagen die These zu den Wintertransfers gestützt: Wechsel im Winter sind selten von Erfolg gekrönt. 
 
